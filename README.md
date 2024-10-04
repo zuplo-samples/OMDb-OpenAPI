@@ -1,5 +1,5 @@
 # OMDb OpenAPI
-OpenAPI specifications for the [OMDb API](https://www.omdbapi.com/)
+OpenAPI specifications for the [Open Movie Database (OMDb) API](https://www.omdbapi.com/)
 
 You can get a free key here: [http://omdbapi.com/apikey.aspx](http://omdbapi.com/apikey.aspx)
 
